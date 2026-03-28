@@ -1,1 +1,14 @@
+# 你的专属虚拟环境
+APP/
+
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境变量（保护你的敏感信息和 API Key 不被公开）
 .env
+
+# 本地数据库文件（通常不上传本地生成的数据库）
+my_research_daily.db
+my_research_daily.db-journal
